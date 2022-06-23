@@ -38,7 +38,7 @@ class Home extends StatelessWidget {
                   Column(
                     crossAxisAlignment: CrossAxisAlignment.start,
                     children: [
-                      Text('Hi Resika',
+                      Text('Hi Resika Arthana',
                           style: TextStyle(
                               color: Colors.white.withOpacity(0.7), fontSize: 16)),
                       const Gap(3),
