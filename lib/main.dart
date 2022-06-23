@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
         ChangeNotifierProvider(create: (_) => ViewModel())
       ],
       child: MaterialApp(
-        title: 'Flutter Banking App',
+        title: 'LPD Desa Ringdikit',
         debugShowCheckedModeBanner: false,
         theme: ThemeData(
           fontFamily: 'DMSans',

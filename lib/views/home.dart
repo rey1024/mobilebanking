@@ -38,11 +38,11 @@ class Home extends StatelessWidget {
                   Column(
                     crossAxisAlignment: CrossAxisAlignment.start,
                     children: [
-                      Text('Hi YOUNESS',
+                      Text('Hi Resika',
                           style: TextStyle(
                               color: Colors.white.withOpacity(0.7), fontSize: 16)),
                       const Gap(3),
-                      const Text('Welcome back',
+                      const Text('Om Swastiastu',
                           style: TextStyle(
                               color: Colors.white,
                               fontSize: 18,
@@ -81,7 +81,7 @@ class Home extends StatelessWidget {
                           children: [
                             Image.asset(Assets.cardsVisaYellow,
                                 width: 60, height: 50, fit: BoxFit.cover),
-                            const Text('\250.00 DHS',
+                            const Text('1234567890',
                                 style: TextStyle(
                                     fontWeight: FontWeight.bold,
                                     fontSize: 32,
